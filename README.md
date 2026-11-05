@@ -38,7 +38,11 @@ Thank You For Visiting ヾ(≧▽≦*)o
 
 <br>
 
-## **📚 If you love reading**
+## **📚 If you love manga**
+
+<details>
+  <summary><b>📚 View Manga (Click to expand)</b></summary>
+  <br>
 
 <div align="center">
   <a href="https://myanimelist.net/manga/104271/Chi_no_Wadachi" target="_blank" title="Blood on Tracks (Chi no Wadachi)">
@@ -75,6 +79,8 @@ Thank You For Visiting ヾ(≧▽≦*)o
     <img src="https://cdn.myanimelist.net/images/manga/3/258224l.jpg" width="125" height="185" alt="Monster" />
   </a>
 </div>
+
+</details>
 
 <br>
 
