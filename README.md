@@ -37,7 +37,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="100" align="center" valign="top">
-      <img src="./images/hehe.png" width="90" alt="Om's anime avatar" />
+      <img src="./images/hehe.png" width="100" alt="Om's anime avatar" />
     </td>
     <td valign="middle">
       <p>
